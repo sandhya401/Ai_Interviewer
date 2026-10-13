@@ -1,0 +1,38 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local databases and vector storage
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded documents and generated reports
+knowledge_base/uploads/
+reports/
+*.pdf
+
+# Testing and logs
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

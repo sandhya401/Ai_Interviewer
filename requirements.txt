@@ -1,0 +1,42 @@
+
+# streamlit
+# python-dotenv
+# langchain<1.0
+# langchain-core<1.0
+# langchain-ollama<1.0
+# pydantic<3
+
+# SQLAlchemy>=2.0,<3.0
+
+# langchain-chroma
+# langchain-text-splitters
+# chromadb
+# pypdf
+
+# python-docx
+
+# faster-whisper
+# pyttsx3
+# streamlit-mic-recorder
+# reportlab
+
+
+streamlit
+python-dotenv
+pydantic
+sqlalchemy
+
+langchain
+langchain-core
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+
+pypdf
+python-docx
+reportlab
+
+faster-whisper
+pyttsx3
+streamlit-mic-recorder
